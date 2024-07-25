@@ -1,9 +1,10 @@
-<script setup lang="ts">
-import LoginPage from './views/LoginPage.vue';
+<script setup>
+// import LoginPage from './views/LoginPage.vue';
+import InicioPage from './views/InicioPage.vue';
 </script>
 
 <template>
-	<LoginPage />
+	<!-- <LoginPage /> -->
+	<InicioPage/>
 </template>
 
-<style scoped></style>
