@@ -1,9 +1,9 @@
 <script setup lang="ts">
+import LoginPage from './views/LoginPage.vue';
 </script>
 
 <template>
-	<h1>Hola</h1>
-
+	<LoginPage />
 </template>
 
 <style scoped></style>
