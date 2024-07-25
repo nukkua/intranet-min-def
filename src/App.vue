@@ -1,7 +1,7 @@
 <script setup>
-import InicioPage from './views/InicioPage.vue';
+import InicioFooter from '@/components/inicio/InicioFooter.vue';
 </script>
 
 <template>
-	<InicioPage />
+	<InicioFooter />
 </template>
