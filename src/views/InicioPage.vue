@@ -14,5 +14,5 @@
 </template>
 
 <script setup>
-    import Circulares  from './components/Circulares.vue';
+    import Circulares  from '../components/inicio/Circulares.vue';
 </script>
