@@ -8,12 +8,13 @@
 		<div class="m-10">
 			<h1>Intranet</h1>
 			<h2>Ministerio de Defensa</h2>
-			<p>Ojala se pueda salir vivo de un apocalipsis zombie</p>
 		</div>
+
+
 
 	</main>
 </template>
 
 <script setup>
-import Circulares from '../components/inicio/Circulares.vue';
+import Circulares from '@/components/inicio/Circulares.vue';
 </script>
