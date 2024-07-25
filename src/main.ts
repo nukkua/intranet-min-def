@@ -7,5 +7,5 @@ import { loadFonts } from './plugins/webfontloader'
 loadFonts()
 
 createApp(App)
-  .use(vuetify)
-  .mount('#app')
+	.use(vuetify)
+	.mount('#app')
