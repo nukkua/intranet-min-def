@@ -3,6 +3,5 @@ import InicioPage from './views/InicioPage.vue';
 </script>
 
 <template>
-	<InicioPage/>
+	<InicioPage />
 </template>
-
