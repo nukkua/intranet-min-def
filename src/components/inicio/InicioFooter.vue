@@ -1,6 +1,6 @@
 <template>
 	<footer class="flex flex-col bg-[#1F3C88] text-gray-100 ">
-		<div class="flex gap-36 justify-center py-20">
+		<div class="flex gap-36 justify-center py-10">
 			<DocumentosRecientes />
 			<EnlacesRelacionados />
 
@@ -16,7 +16,7 @@
 </template>
 
 <script setup lang="ts">
-import DocumentosRecientes from './DocumentosRecientes.vue';
+// import DocumentosRecientes from './DocumentosRecientes.vue';
 import EnlacesRelacionados from './EnlacesRelacionados.vue';
 
 </script>
