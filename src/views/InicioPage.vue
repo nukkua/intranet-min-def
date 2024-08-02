@@ -1,17 +1,17 @@
 <template>
-	<main class="flex min-h-screen w-full bg-[#5893D4]">
-		<div class=" p-8 border-2 border-black ">
-			<img class="h-[150px]" src="https://sistemas.mindef.gob.bo/socorros/logo.jpg"
-				alt="Ministerio de defensa LOGO">
-			<p>inicio</p>
+	<main class="flex min-h-screen w-full bg-[#1F3C88]">
+		<div class="w-full border-4 border-black" >	
+			<div class=" w-full h-[180px] p-4 border-4 border-black flex">
+				<div class="mr-auto">
+					<h1 class="text-2xl px-16 capitalize font-bold" >Intranet</h1>
+					<h2 class="text-4xl px-16 capitalize font-bold">Ministerio de Defensa</h2>
+				</div>
+				<img class="h-[150px] ml-auto" src="https://www.mindef.gob.bo/sites/default/files/minlogo.png" alt="Logo2">
+			</div>
+			<p class="pt-8 pl-8 text-2xl">Bienvenido </p>
+			<p class="p-8 text-6xl">Circulares</p>
+			<Circulares/>
 		</div>
-		<div class=" w-full h-[150px] p-4 border-2 border-black ">
-			<h1>Intranet</h1>
-			<h2>Ministerio de Defensa</h2>
-		</div>
-
-
-
 	</main>
 </template>
 
