@@ -2,10 +2,9 @@
 	<main class="flex min-h-screen w-full bg-[#3a3a3abe]">
 		<div class="w-full border-4 border-black">
 			<div class=" w-full h-[180px] p-4 border-4 border-black flex">
-				<div class="mr-auto">
-					<h1 class="text-2xl px-20 capitalize font-bold text-white mt-6">Intranet</h1>
-					<h2 class="text-4xl px-20 capitalize font-bold text-white mt-2">Ministerio de Defensa</h2>
-				</div>
+				<nav class="">
+
+				</nav>
 			</div>
 			<p class="pt-8 pl-8 text-2xl text-white m-8 top-10">Bienvenido </p>
 			<div class="px-10 ">
